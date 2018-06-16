@@ -1,0 +1,13 @@
+html, body {
+  height: 100%;
+}
+
+svg {
+  width: 50%;
+  height: 75%;
+  position: relative;
+}
+
+line {
+  position: absolute;
+}
